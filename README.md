@@ -21,8 +21,6 @@ Databases: MySQL, PostgreSQL
 ## 📜 Certifications
 
 -  AWS Certified Cloud Practitioner
--  AWS Certified Developer– Associate
-
 ---
 
 ## 🌟 What’s Next?
